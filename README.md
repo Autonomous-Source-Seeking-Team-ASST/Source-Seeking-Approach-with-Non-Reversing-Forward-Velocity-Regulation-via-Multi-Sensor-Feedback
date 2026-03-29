@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/Stochastic%20Extremum%20-Green"/>
     <img src="https://img.shields.io/badge/Robotics-TWDDR-Green"/>
     <img src="https://img.shields.io/badge/Embedded%20System-STM32-Green"/>
   </a>
