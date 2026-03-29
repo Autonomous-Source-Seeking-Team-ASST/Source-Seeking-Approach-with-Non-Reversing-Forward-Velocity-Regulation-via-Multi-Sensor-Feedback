@@ -16,27 +16,24 @@
 ## 📂File
 The file tree is shown below：
 ```
-└─Ae-SES
-    │  Ae-SES Physical Experiment 1.mp4          <-Experimental video
-    │  Ae-SES Physical Experiment 2.mp4          <-Experimental video
+└─Source-Seeking-Approach-with-Non-Reversing-Forward-Velocity-Regulation-via-Multi-Sensor-Feedback
+    │  Physical Experiment 1.mp4          <-Experimental video
+    │  Physical Experiment 2.mp4          <-Experimental video
     │  LICENSE
     │  README.md
     │
-    └─Appearance
+    └─Hardware & Appearance
             Overlook.jpg                         <-Physical photo of the vehicle
             Strabismus.jpg                       <-Physical photo of the vehicle
 ```
-> **Note**  
-> - Experimental videos are available in the `.mp4` files.  
-> - Physical photos of the vehicle can be found in the `.jpg` files under [`Appearance/`](Appearance).
 
 ## 🛠️Hardware
 ### Appearance
 
 <p align="center">
-  <img src="https://github.com/Autonomous-Source-Seeking-Team-ASST/Experimental_Media/blob/main/Ae-SES/Appearance/Overlook.jpg" width="45%" alt="Top view"/>
+  <img src="https://github.com/Autonomous-Source-Seeking-Team-ASST/Source-Seeking-Approach-with-Non-Reversing-Forward-Velocity-Regulation-via-Multi-Sensor-Feedback/blob/main/Hardware%20%26%20Appearance/Overlook.jpg" width="45%" alt="Top view"/>
 &nbsp; &nbsp;
-  <img src="https://github.com/Autonomous-Source-Seeking-Team-ASST/Experimental_Media/blob/main/Ae-SES/Appearance/Strabismus.jpg" width="45%" alt="Oblique view"/>
+  <img src="https://github.com/Autonomous-Source-Seeking-Team-ASST/Source-Seeking-Approach-with-Non-Reversing-Forward-Velocity-Regulation-via-Multi-Sensor-Feedback/blob/main/Hardware%20%26%20Appearance/Strabismus.jpg" width="45%" alt="Oblique view"/>
 </p>
 <p align="center">
   <em>Physical view of the source-seeking vehicle</em>
@@ -47,7 +44,7 @@ The file tree is shown below：
 | Component | Model | Number | Function |
 |-----------|-------|--------|----------|
 | OpenCTR | B20 | 1 | Microcontroller |
-| Light-sensitive sensor module | — | 1 | Light intensity measurement with analog output |
+| Light-sensitive sensor module | — | 2 | Light intensity measurement with analog output |
 | Gear Motor | GA12-N20 | 2 | Provides propulsion and braking |
 | Gyroscope | IMU406 | 1 | Measures rotational angular velocity |
 | Stick | 195 mm × 4.5 mm | 1 | Mounting the light-sensitive sensor at the frontal position |
